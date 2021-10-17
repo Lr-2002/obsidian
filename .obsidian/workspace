@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "0812e96df209d976",
+    "type": "split",
+    "children": [
+      {
+        "id": "813391ba0a83b820",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "双足机器人/icra 2021/强化学习在双足机器人的鲁棒参数化运动学/强化学习/域随机化（domain randomization).md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07f35c3253a50313",
+    "type": "split",
+    "children": [
+      {
+        "id": "a87ac499dd08d871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66704eff34173da3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "268dd9250372fc2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe03e25e09e49c8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ebe1b86b407ab17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "826fa71c9e5f1b12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "双足机器人/icra 2021/强化学习在双足机器人的鲁棒参数化运动学/强化学习/域随机化（domain randomization).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "813391ba0a83b820",
+  "lastOpenFiles": [
+    "双足机器人/icra 2021/强化学习在双足机器人的鲁棒参数化运动学/强化学习/未命名.md",
+    "双足机器人/icra 2021/强化学习在双足机器人的鲁棒参数化运动学/强化学习/强化学习.md",
+    "双足机器人/icra 2021/强化学习在双足机器人的鲁棒参数化运动学/传统/传统算法.md",
+    "双足机器人/icra 2021/强化学习在双足机器人的鲁棒参数化运动学/传统/HZD.md",
+    "双足机器人/icra 2021/强化学习在双足机器人的鲁棒参数化运动学/传统/未命名.md",
+    "双足机器人/icra 2021/强化学习在双足机器人的鲁棒参数化运动学/强化学习.md",
+    "双足机器人/icra 2021/强化学习在双足机器人的鲁棒参数化运动学/传统算法.md",
+    "双足机器人/icra 2021/强化学习在双足机器人的鲁棒参数化运动学/CoP.md",
+    "双足机器人/icra 2021/强化学习在双足机器人的鲁棒参数化运动学/ZMP.md",
+    "双足机器人/icra 2021/强化学习在双足机器人的鲁棒参数化运动学/未命名.md"
+  ]
+}
